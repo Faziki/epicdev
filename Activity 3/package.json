@@ -1,0 +1,16 @@
+{
+  "name": "devtest",
+  "version": "1.0.0",
+  "description": "this is a dev test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pieter",
+  "license": "ISC",
+  "dependencies": {
+    "clamp": "^1.0.1",
+    "express": "^4.17.1",
+    "format": "^0.2.2"
+  }
+}
